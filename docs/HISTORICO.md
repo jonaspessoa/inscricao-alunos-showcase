@@ -1,4 +1,4 @@
-> Documento histórico da etapa inicial. As condições e pendências abaixo não descrevem o estado atual. Consulte o [CFIC Showcase](https://github.com/jonascepa09-star/cfic-showcase).
+> Documento histórico da etapa inicial. As condições e pendências abaixo não descrevem o estado atual. Consulte o [CFIC Showcase](https://github.com/jonaspessoa/cfic-showcase).
 
 <div align="center">
 
@@ -192,7 +192,7 @@ O showcase prioriza a apresentação do sistema sem disponibilizar sua implement
 ## 👨‍💻 Autoria
 
 **Desenvolvimento e organização do projeto:** Jonas Pessoa
-**GitHub:** [@jonascepa09-star](https://github.com/jonascepa09-star)
+**GitHub:** [@jonaspessoa](https://github.com/jonaspessoa)
 
 Este repositório documenta um projeto de software para fins de **portfólio profissional**, com foco em experiência do usuário, arquitetura web, fluxos de matrícula e ferramentas para a equipe comercial.
 
